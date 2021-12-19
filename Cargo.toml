@@ -2,6 +2,7 @@
 name = "chat-tokio-stream"
 version = "0.1.0"
 authors = ["Norbert Parti"]
+edition = "2018"
 
 [dependencies]
 tokio = { version = "1", features = ["full"]}
